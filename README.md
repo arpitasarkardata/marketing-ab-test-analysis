@@ -51,9 +51,7 @@ size is a noted limitation, though it does not undermine the overall
 conclusion given the scale of the effect.
 
 ## Dashboard
-🔗 [View the interactive Tableau dashboard](#) *(replace with your Tableau Public link)*
-
-![Dashboard screenshot](images/dashboard_screenshot.png)
+🔗 [View the interactive Tableau dashboard](https://public.tableau.com/app/profile/arpita.sarkar2356/viz/MarketingABTestAnalysis_17857674125260/Dashboard1)
 
 ## Tools Used
 MySQL · Python (Pandas, statsmodels) · Tableau · Google Colab
