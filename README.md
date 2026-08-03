@@ -1,6 +1,6 @@
 # Marketing A/B Test Analysis: Ad vs. PSA Conversion Impact
 
-**TL;DR:** Designed and analyzed an A/B experiment on 588K users to quantify the business impact of ad exposure on conversion. Found a statistically significant 43% relative lift (p < 0.001) in the ad group vs. PSA control, and made a launch recommendation weighing statistical significance, practical significance, and sample-size limitations.
+ Designed and analyzed an A/B experiment on 588K users to quantify the business impact of ad exposure on conversion. Found a statistically significant 43% relative lift (p < 0.001) in the ad group vs. PSA control, and made a launch recommendation weighing statistical significance, practical significance, and sample-size limitations.
 
 ---
 
